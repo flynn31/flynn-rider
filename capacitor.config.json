@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "FlynnRider",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
